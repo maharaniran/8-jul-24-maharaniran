@@ -1,6 +1,6 @@
 // ini javascript 
 
-//bagian yang hilang ketika klik tombol reset
+// bagian yang hilang ketika klik tombol reset
 function reset() {
     event.preventDefault();
     document.getElementById('input-berat-badan').value = "";
