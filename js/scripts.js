@@ -61,4 +61,4 @@ function calculateBMI() {
 function changeColor(color) {
     const element = document.getElementById('result');
     element.style.color = color;
-  }
+}
